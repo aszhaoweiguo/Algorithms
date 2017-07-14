@@ -2,13 +2,13 @@ Gradient Descent
 =========================================================================
 
 ## Content
-* [BGD](#BGD)
+* [BGD](#bgd)
 
-* [SGD](#SGD)
+* [SGD](#sgd)
 
-* [mBGD](#mBGD)
+* [mBGD](#mbgd)
 
-* [Notes](#Notes)
+* [Notes](#notes)
 
  <br /> <br />
 
